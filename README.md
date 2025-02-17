@@ -5,7 +5,7 @@
 
 # Overview
 
-This project focuses on analyzing car data using Python, SQL, and Power BI to derive meaningful insights and create an interactive dashboard. The dataset initially contained missing values, which were handled through web scraping based on VIN codes and year information. The cleaned and processed data was then used for visualization in Power BI.
+This project focuses on analyzing car data using Python, SQL, and Power BI to derive meaningful insights and create an interactive dashboard. The dataset contains over 500,000 records,and the analysis aims to derive insights from various attributes such as vehicle specifications, pricing trends, and availability.
 
 # Technologies Used
 
@@ -31,8 +31,7 @@ The raw dataset was first processed in MySQL to:
 </ol>
 
 ## 2. Handling Missing Values (Python & Web Scraping)
-
-To fill missing values in the dataset:
+Approximately 100,000 values were missing in the dataset. These were filled using a Python-based web scraping approach:
 <ol>
 <li><b>Web Scraping</b>: Used Python to scrape car details based on VIN code and year from automotive databases.</li>
 <li><b>Data Integration</b>: Fetched missing information and merged it with the cleaned MySQL data.</li>
