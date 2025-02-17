@@ -1,5 +1,0 @@
-[DEFAULT]
-host = localhost
-user = root
-password = mydatabase@890
-database = sales_car
