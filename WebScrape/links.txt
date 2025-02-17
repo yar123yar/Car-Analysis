@@ -1,3 +1,0 @@
-C:\Users\muiva\OneDrive\Desktop\Data Analysis\Projects\6.Car Sale Analysis\WebScrape\databaseCon.txt
-https://vpic.nhtsa.dot.gov/decoder
-https://www.jdpower.com/cars/vin-lookup-and-decoder
