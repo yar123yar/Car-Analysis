@@ -10,9 +10,9 @@ This project focuses on analyzing car data using Python, SQL, and Power BI to de
 # Technologies Used
 
 <ul>
-<li>Python: Used for web scraping to fill missing values.</li>
-<li>MySQL: Used for data cleaning, standardization, and transformation.</li>
-<li>Power BI: Used to create an interactive dashboard for data visualization.</li>
+<li><b>Python</b>: Used for web scraping to fill missing values.</li>
+<li><b>MySQL</b>: Used for data cleaning, standardization, and transformation.</li>
+<li><b>Power BI</b>: Used to create an interactive dashboard for data visualization.</li>
 </ul>
 
 # Project Workflow
